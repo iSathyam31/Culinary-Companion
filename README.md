@@ -5,7 +5,6 @@ Welcome to the Recipe Culinary-Companion! This project aims to provide personali
 
 - **Personalized Suggestions**: Users can select their meal time, eating type, and cuisine preferences to receive tailored recipe suggestions.
 - **Interactive Interface**: The app features an intuitive and user-friendly interface with dropdown menus and buttons for easy navigation.
-- **Multi-language Support**: The app supports both English and Japanese languages, offering a unique and multicultural experience.
 - **Visual Appeal**: The app includes images and emojis to enhance the visual appeal and engagement of the user interface.
 
 ## Requirements
